@@ -22,7 +22,8 @@ Number of Attributes:16
 
 
 
-
+## graph
+https://github.com/Sg30148/Parameter_Optimization_Of_SVM/blob/main/convergence_graph.jpeg
 ## Final Result Table
 
 | Sample  | Best Accuracy | Best Kernel | Best Nu | Best Epsilon |
