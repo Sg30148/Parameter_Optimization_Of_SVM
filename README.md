@@ -44,3 +44,5 @@ https://github.com/Sg30148/Parameter_Optimization_Of_SVM/blob/main/convergence_g
 **Name** : Saumya Gupta
 <br>
 **Roll No** : 102017036
+<br>
+**Subgrp** : 3CS2
