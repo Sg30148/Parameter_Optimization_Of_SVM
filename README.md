@@ -15,10 +15,10 @@ Parameter optimization is the process of finding the best set of parameter value
 6. For the best sample plot the convergence graph
 
 
-## Dataset used:https://archive.ics.uci.edu/ml/machine-learning-databases/adult/
+## Dataset used:https://archive.ics.uci.edu/ml/datasets/Room+Occupancy+Estimation
 
-Number of Instances:48842
-Number of Attributes:14
+Number of Instances:10129
+Number of Attributes:16
 
 
 
