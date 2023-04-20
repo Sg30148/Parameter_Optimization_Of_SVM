@@ -21,6 +21,21 @@ Number of Instances:10129
 Number of Attributes:16
 
 
+## Final Result Table
+
+| Sample  | Best Accuracy | Best Kernel | Best Nu | Best Epsilon |
+| -----   | ------------- | ----------- | ------- | ------------ |
+| 1 | 0.88 | Poly | 5.82 | 4.35 |
+| 2 | 0.95 | Linear | 5.13 | 0.30 |
+| 3 | 0.96 | Linear | 3.13 | 6.32 |
+| 4 | 0.96 | Poly | 1.49 | 3.26 |
+| 5 | 0.91 | Linear | 3.52 | 7.34 |
+| 6 | 0.83 | RBF | 5.60 | 3.14 |
+| 7 | 0.95 | Poly | 0.29 | 7.71 |
+| 8 | 0.95 | Poly | 4.87 | 5.57 |
+| 9 | 0.97 | Poly | 1.27 | 6.87 |
+| 10 | 0.92 | Poly | 0.34 | 5.50 |
+
 
 ## Submission by :
 **Name** : Saumya Gupta
